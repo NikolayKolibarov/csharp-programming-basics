@@ -1,0 +1,6 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\05.FactorialFormula\bin\Debug\05.FactorialFormula.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\05.FactorialFormula\bin\Debug\05.FactorialFormula.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\05.FactorialFormula\bin\Debug\05.FactorialFormula.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\05.FactorialFormula\obj\Debug\05.FactorialFormula.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\05.FactorialFormula\obj\Debug\05.FactorialFormula.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\05.FactorialFormula\obj\Debug\05.FactorialFormula.pdb

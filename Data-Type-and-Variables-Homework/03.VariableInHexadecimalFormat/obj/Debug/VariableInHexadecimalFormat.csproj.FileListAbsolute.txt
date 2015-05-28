@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

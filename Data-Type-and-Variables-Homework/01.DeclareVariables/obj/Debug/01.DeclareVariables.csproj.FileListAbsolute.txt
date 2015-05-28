@@ -1,0 +1,5 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\DeclareVariables\bin\Debug\DeclareVariables.pdb

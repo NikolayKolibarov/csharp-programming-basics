@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintLongSequence\obj\Debug\10.PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

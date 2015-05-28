@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\IntroLoops\bin\Debug\IntroLoops.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\IntroLoops\bin\Debug\IntroLoops.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\IntroLoops\bin\Debug\IntroLoops.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\IntroLoops\obj\Debug\IntroLoops.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\IntroLoops\obj\Debug\IntroLoops.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\IntroLoops\obj\Debug\IntroLoops.pdb

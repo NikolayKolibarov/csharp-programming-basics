@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

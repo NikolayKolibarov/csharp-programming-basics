@@ -1,0 +1,6 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\05.IsTheThirdDigitSeven\bin\Debug\05.IsTheThirdDigitSeven.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\05.IsTheThirdDigitSeven\bin\Debug\05.IsTheThirdDigitSeven.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\05.IsTheThirdDigitSeven\bin\Debug\05.IsTheThirdDigitSeven.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\05.IsTheThirdDigitSeven\obj\Debug\05.IsTheThirdDigitSeven.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\05.IsTheThirdDigitSeven\obj\Debug\05.IsTheThirdDigitSeven.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\05.IsTheThirdDigitSeven\obj\Debug\05.IsTheThirdDigitSeven.pdb

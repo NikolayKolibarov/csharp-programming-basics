@@ -1,0 +1,6 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.pdb

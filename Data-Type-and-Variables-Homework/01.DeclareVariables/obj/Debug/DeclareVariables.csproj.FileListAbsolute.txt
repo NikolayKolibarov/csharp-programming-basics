@@ -1,0 +1,6 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\Homework-Data-Type-and-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\Homework-Data-Type-and-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\Homework-Data-Type-and-Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\Homework-Data-Type-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\Homework-Data-Type-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\Homework-Data-Type-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb

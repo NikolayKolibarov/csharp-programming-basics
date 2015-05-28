@@ -1,0 +1,9 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\bin\Debug\03.MinMaxSumAverageOfNnumbers.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\bin\Debug\03.MinMaxSumAverageOfNnumbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\bin\Debug\03.MinMaxSumAverageOfNnumbers.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\obj\Debug\03.MinMaxSumAverageOfNnumbers.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\obj\Debug\03.MinMaxSumAverageOfNnumbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\obj\Debug\03.MinMaxSumAverageOfNnumbers.pdb
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\bin\Debug\03.MinMaxSumAverageOfNnumbers.exe.config
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\obj\Debug\03.MinMaxSumAverageOfNnumbers.exe
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\03.MinMaxSumAverageOfNnumbers\obj\Debug\03.MinMaxSumAverageOfNnumbers.pdb

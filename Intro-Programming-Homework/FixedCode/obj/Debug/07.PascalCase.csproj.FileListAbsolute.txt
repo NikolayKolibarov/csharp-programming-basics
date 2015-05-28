@@ -1,0 +1,8 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\FixedCode\bin\Debug\FixedCode.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\FixedCode\obj\Debug\FixedCode.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\FixedCode\obj\Debug\FixedCode.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\FixedCode\bin\Debug\FixedCode.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\FixedCode\bin\Debug\FixedCode.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FixedCode\bin\Debug\FixedCode.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FixedCode\obj\Debug\FixedCode.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FixedCode\obj\Debug\FixedCode.pdb

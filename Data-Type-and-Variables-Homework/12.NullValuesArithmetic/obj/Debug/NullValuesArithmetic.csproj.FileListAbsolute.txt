@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

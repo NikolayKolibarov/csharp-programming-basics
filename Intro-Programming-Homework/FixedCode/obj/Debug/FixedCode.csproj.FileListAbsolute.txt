@@ -1,0 +1,6 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\IntroHomework\FixedCode\bin\Debug\FixedCode.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\IntroHomework\FixedCode\bin\Debug\FixedCode.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\IntroHomework\FixedCode\bin\Debug\FixedCode.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\IntroHomework\FixedCode\obj\Debug\FixedCode.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\IntroHomework\FixedCode\obj\Debug\FixedCode.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\IntroHomework\FixedCode\obj\Debug\FixedCode.pdb

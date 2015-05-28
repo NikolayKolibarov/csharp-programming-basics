@@ -1,0 +1,5 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintName\bin\Debug\PrintName.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintName\bin\Debug\PrintName.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintName\bin\Debug\PrintName.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintName\obj\Debug\PrintName.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\IntroHomework\PrintName\obj\Debug\PrintName.pdb

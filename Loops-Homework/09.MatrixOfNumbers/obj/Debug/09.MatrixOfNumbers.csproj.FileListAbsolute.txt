@@ -1,0 +1,12 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+C:\Users\Nikolay\Dropbox\Coding\Level 0\Visual Studio 2013\Projects\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache

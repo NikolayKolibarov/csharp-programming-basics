@@ -1,0 +1,6 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOf-n-Numbers\bin\Debug\09.SumOf-n-Numbers.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOf-n-Numbers\bin\Debug\09.SumOf-n-Numbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOf-n-Numbers\bin\Debug\09.SumOf-n-Numbers.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOf-n-Numbers\obj\Debug\09.SumOf-n-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOf-n-Numbers\obj\Debug\09.SumOf-n-Numbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOf-n-Numbers\obj\Debug\09.SumOf-n-Numbers.pdb

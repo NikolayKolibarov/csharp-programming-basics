@@ -1,0 +1,6 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\04.PrintDeckOf52Cards\bin\Debug\04.PrintDeckOf52Cards.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\04.PrintDeckOf52Cards\bin\Debug\04.PrintDeckOf52Cards.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\04.PrintDeckOf52Cards\bin\Debug\04.PrintDeckOf52Cards.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\04.PrintDeckOf52Cards\obj\Debug\04.PrintDeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\04.PrintDeckOf52Cards\obj\Debug\04.PrintDeckOf52Cards.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\04.PrintDeckOf52Cards\obj\Debug\04.PrintDeckOf52Cards.pdb

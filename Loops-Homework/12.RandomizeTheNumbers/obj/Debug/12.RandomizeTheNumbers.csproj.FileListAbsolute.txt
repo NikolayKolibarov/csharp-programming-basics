@@ -1,0 +1,5 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.pdb

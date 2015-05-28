@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Operators-Expresions-Statements-Homework\11.BitwiseExtraction\bin\Debug\11.BitwiseExtraction.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Operators-Expresions-Statements-Homework\11.BitwiseExtraction\bin\Debug\11.BitwiseExtraction.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Operators-Expresions-Statements-Homework\11.BitwiseExtraction\bin\Debug\11.BitwiseExtraction.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Operators-Expresions-Statements-Homework\11.BitwiseExtraction\obj\Debug\11.BitwiseExtraction.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Operators-Expresions-Statements-Homework\11.BitwiseExtraction\obj\Debug\11.BitwiseExtraction.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Operators-Expresions-Statements-Homework\11.BitwiseExtraction\obj\Debug\11.BitwiseExtraction.pdb

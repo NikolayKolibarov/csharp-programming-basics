@@ -1,0 +1,1 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Operators-Expresions-Statements-Homework\08.PrimeNumbers\bin\Debug\08.PrimeNumbers.exe.config

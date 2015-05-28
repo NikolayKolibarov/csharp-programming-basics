@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

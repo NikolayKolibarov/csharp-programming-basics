@@ -1,0 +1,6 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\Operators-Expresions-Statements-Homework\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Data-Type-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
