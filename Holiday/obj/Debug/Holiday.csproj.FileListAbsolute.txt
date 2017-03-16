@@ -1,0 +1,6 @@
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Holiday\bin\Debug\Holiday.exe.config
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Holiday\bin\Debug\Holiday.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Holiday\bin\Debug\Holiday.pdb
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Holiday\obj\Debug\Holiday.csprojResolveAssemblyReference.cache
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Holiday\obj\Debug\Holiday.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Holiday\obj\Debug\Holiday.pdb

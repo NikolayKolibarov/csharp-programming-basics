@@ -1,0 +1,6 @@
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Battles\bin\Debug\Battles.exe.config
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Battles\bin\Debug\Battles.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Battles\bin\Debug\Battles.pdb
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Battles\obj\Debug\Battles.csprojResolveAssemblyReference.cache
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Battles\obj\Debug\Battles.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Battles\obj\Debug\Battles.pdb

@@ -1,0 +1,6 @@
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\05.FoxPrep\bin\Debug\05.FoxPrep.exe.config
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\05.FoxPrep\bin\Debug\05.FoxPrep.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\05.FoxPrep\bin\Debug\05.FoxPrep.pdb
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\05.FoxPrep\obj\Debug\05.FoxPrep.csprojResolveAssemblyReference.cache
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\05.FoxPrep\obj\Debug\05.FoxPrep.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\05.FoxPrep\obj\Debug\05.FoxPrep.pdb

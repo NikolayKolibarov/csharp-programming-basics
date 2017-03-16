@@ -1,0 +1,5 @@
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Fox\bin\Debug\Fox.exe.config
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Fox\bin\Debug\Fox.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Fox\bin\Debug\Fox.pdb
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Fox\obj\Debug\Fox.exe
+c:\users\nikolaynk\documents\visual studio 2015\Projects\ExamPreparation\Fox\obj\Debug\Fox.pdb
